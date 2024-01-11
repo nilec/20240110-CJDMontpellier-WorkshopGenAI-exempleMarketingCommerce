@@ -1,0 +1,116 @@
+Script email
+Enregistrement essai https://chat.openai.com/share/d27035e9-ff0f-457d-a885-8441689724dc
+
+Montrer les données client 
+Montrer les données Produits
+Montrer le persona pour GreenTech
+
+On lance le GPT 
+https://chat.openai.com/g/g-8HqrG4pZA-ai-business-booster
+
+MESSAGE
+Je suis le responsable commercial d'une entreprise de service et conseil informatique, je cherche à preparer ma prochaine campagne marketing email. Quelles sont les étapes classiques de travaille.
+
+MESSAGE pour affiner ce que je veux
+J'ai un budget très limité et peu de temps je ne pourrait pas réaliser toutes ces étapes que dois-je conserver pour être efficace. J'ai déjà identifié les clients dans le CRM et les produits à mettre en avant.
+
+
+UPLOAD 
+UPLOAD  
+MESSAGE 
+Voici les produits que je vais mettre en avant. 
+Et voici ci joint le fichier avec les coordonnées des clients et les informations de leurs entreprises. 
+Je veux que tu m'aides à personnaliser les emails pour ces 5 clients. 
+
+Voici les logiciels qu'ils ont achetés : 
+
+TechnoDynamic
+CyberShield - Antivirus d'Entreprise Avancé
+
+DataSolutions
+CloudMaster - Solution de Stockage Cloud Sécurisée
+CyberShield - Antivirus d'Entreprise Avancé
+
+GreenTech Innovations
+DataInsight - Analyseur de Données Business
+CyberShield - Antivirus d'Entreprise Avancé
+
+MedicoSoft
+CloudMaster - Solution de Stockage Cloud Sécurisée
+
+EduNet Services
+DataInsight - Analyseur de Données Business
+
+
+
+
+MESSAGE pour traiter les données autrement
+Pour chaque entreprise avec un chiffre d'affaire plus important, je veux que tu ajoutes aux suggestions précédentes, de proposer le produit CloudMaster ou DataInsight s'ils l'ont déjà. 
+Et pour celles avec un chiffre d'affaire le plus petit le produit DataInsight ou CyberShield s'ils l'ont déjà. 
+
+Voici les données fictives de clients : 
+
+Nom de l'Entreprise,SIREN,Forme Juridique,Capital Social,Date de Création,Effectifs,Code NAF,Siège Social,Chiffre d'Affaires 2023,Résultat Net 2023,Dirigeant Principal
+TechnoDynamic,123 456 789,SAS,1 000 000 €,15/03/2010,250,6202A,"15 Rue de l'Innovation, 75000 Paris, France",30 000 000 €,4 500 000 €,"Marc Dubois, Président"
+DataSolutions,987 654 321,SARL,500 000 €,22/07/2015,150,6201Z,"88 Avenue du Numérique, 69000 Lyon, France",20 000 000 €,3 000 000 €,"Émilie Rousseau, Gérante"
+GreenTech Innovations,456 123 789,SA,2 000 000 €,05/11/2012,300,7112B,"32 Rue des Énergies Renouvelables, 34000 Montpellier, France",35 000 000 €,5 000 000 €,"Alexandre Martin, PDG"
+MedicoSoft,321 654 987,SASU,750 000 €,17/04/2017,100,6202B,"47 Boulevard de la Santé, 44000 Nantes, France",15 000 000 €,2 200 000 €,"Julie Fontaine, Présidente"
+EduNet Services,789 321 456,EURL,300 000 €,03/09/2013,80,8559A,"12 Rue de l'Éducation, 67000 Strasbourg, France",10 000 000 €,1 500 000 €,"Sophie Lemoine, Directrice"
+
+
+
+MESSAGE pour tester un email
+Aides moi à générer un premier exemple d'email pour que je vois ce que ca donne avec TechnoDynamic. 
+
+Voici la description des produits : 
+
+Titre,Description Courte,Description Longue
+CloudMaster - Solution de Stockage Cloud Sécurisée,"Sécurisez et gérez vos données avec CloudMaster, la solution de stockage cloud ultra-sécurisée et facile d'utilisation.","CloudMaster est une plateforme de stockage cloud de pointe, conçue pour les entreprises exigeantes en matière de sécurité et d'accessibilité des données. Avec une interface intuitive, CloudMaster permet une gestion simplifiée des fichiers, une collaboration en temps réel et une sécurité renforcée. Nos serveurs, situés en France, garantissent une conformité totale avec les réglementations GDPR, offrant une tranquillité d'esprit absolue. Que vous soyez une PME ou une grande entreprise, CloudMaster s'adapte à vos besoins avec des options de personnalisation avancées et un support technique 24/7."
+CyberShield - Antivirus d'Entreprise Avancé,"Protégez votre entreprise contre les cybermenaces avec CyberShield, l'antivirus d'entreprise avancé et intuitif.","CyberShield est une solution antivirus complète, conçue pour offrir une protection robuste contre toutes les formes de logiciels malveillants, ransomwares et attaques de phishing. Doté d'une technologie de machine learning, CyberShield s'adapte continuellement aux nouvelles menaces, assurant une défense proactive de votre réseau d'entreprise. Sa gestion centralisée permet un contrôle facile de la sécurité pour tous vos appareils, tandis que les rapports détaillés fournissent des insights précieux sur la santé de votre système informatique. Avec CyberShield, assurez une sécurité informatique de haut niveau sans compromettre la performance de votre système."
+DataInsight - Analyseur de Données Business,"Transformez vos données en décisions stratégiques avec DataInsight, l'analyseur de données business intuitif et puissant.","DataInsight est un outil d'analyse de données conçu pour aider les entreprises à prendre des décisions éclairées grâce à une compréhension approfondie de leurs données. Utilisant des algorithmes d'IA avancés, DataInsight offre des analyses prédictives, des visualisations de données interactives et des tableaux de bord personnalisables. Cette plateforme intuitive permet aux utilisateurs de tous niveaux de découvrir des tendances cachées, d'optimiser les processus et de maximiser la rentabilité. DataInsight s'intègre facilement à diverses sources de données, offrant une vue d'ensemble complète et en temps réel de votre activité commerciale."
+
+Nous sommes en janvier nous allons donc aussi présenter nos voeux de façon professionnelle dans ces emails.
+
+
+
+MESSAGE
+Essayons une version plus courte et sans evoquer le chiffre d'affaire.
+
+
+
+
+
+MESSAGE pour voir si ils retrouve la bonne entreprise etc.
+Faisons pareil pour MedicoSoft, mais on va utiliser un ton différent car je suis beaucoup plus proche de Claire Bernard que je connais depuis 7 ans.
+
+
+
+
+UPLOAD Persona
+MESSAGE
+Voici plus d'information sur greentech peux tu me faire un résumé de toutes les information que nous avons sur eux sous la forme d'une liste aussi détaillée que possible de points clé rapide à lire
+
+
+
+
+MESSAGE pour affiner et interragir + aider à reflechir
+Servons nous de ceci pour personnaliser un email comme pour les autres. 
+Pose moi une liste de questions afin de porter encore plus de soin à la rédactions de cette email.
+
+
+
+
+MESSAGE pour repondre et generer un email
+L'historique date de 2 ans nous avons déployés  avec succès DataInsight et CyberShield et nous avons commencé à évoquer lors d'une reunion de pilotage un PoC de GenAI. 
+Il demandent systématiquement des documents quand on l'équipe par une approche plus directe.  
+Pour l'intégration de CloudMaster, on pourrait donner envie à son équipe de cibler le salon BIG 2024 à Paris pour communiquer sur le lancement de leur projet. 
+Essayons de faire court et motivant.
+
+
+
+
+
+Autres :
+
+Génère 5 titres d'email optimisé pour smartphone
+Génère 2 email optimisé pour smartphone
